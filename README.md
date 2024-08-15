@@ -13,26 +13,6 @@ contact: 💌 hotaruk2411@gmail.com
 - English Blog: [Hotaru Komajou – Medium](https://medium.com/@hotakoma)
 - JP Blog: [komajou’s diary](https://komajou.hatenablog.jp/)
 
-### 🌞**Skills**
-
-- **Language**
-  - Python, Golang, Java, JavaScript/TypeScript, PHP, XML, JSON, SQL
-- **Tools**
-  - Docker, Git, Subversion, AWS, Google Cloud Platform, Microsoft Azure, Sentry, CircleCI, GitHub, Slack, DataDog, Redis, UML, Mermaid, Node.js, React, Django, Flask, FuelPHP, CakePHP, Laravel
-- **AI**
-  - Transformer, Encoder-Decoder, NLP, Computer Vision, 3D-convolution
-- **Software Paradigms**
-  - Serverless, microservice and monolith architecture, event-driven architecture, publisher-subscriber, streaming, big data, OOP, model-view-controller, multithreading, neural networks, transformer, networking, cybersecurity, algorithms, web API, RESTFul API, DevOps, CI/CD, observability.
-
-### 🍣**Experience**
-
-- Application development (B2B and B2C)
-- Application Architecture Design
-- Review and debugging
-- Server infrastructure management (on-premise and cloud)
-- Small project management with 2-5 people(project manager/team leader)
-- Negotiations with clients
-
 ### 🦄**About me**
 - **Screen name**: Hotaru Komajo
 - **Real name?**: T.N
