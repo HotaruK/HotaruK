@@ -15,7 +15,7 @@ contact: 💌 hotaruk2411@gmail.com
 
 ### 🦄**About me**
 - **Screen name**: Hotaru Komajo
-- **Real name?**: T.N
+- **Real name?**: T.K
 - **From**: Hokkaido, Japan
 - **Pronouns**: Online - They/Them, In-person - ask me
 - **Living**: Los Angeles, CA
